@@ -1,0 +1,10 @@
+(10001,pgp_sym_encrypt('Ac7mvyXJ','keihin-workflow'),'京浜河川事務所　管理課',10001,null,30),
+(10002,pgp_sym_encrypt('d8F9AnU3','keihin-workflow'),'神奈川県　河川下水道部　河川課',10002,null,20),
+(10003,pgp_sym_encrypt('k5Ftwmuy','keihin-workflow'),'山梨県　県土整備部　治水課',10003,null,20),
+(10004,pgp_sym_encrypt('e8ZTs7r4','keihin-workflow'),'相模川水系広域ダム管理事務所（宮ケ瀬ダム）',10004,null,30),
+(10005,pgp_sym_encrypt('g5J9s2Sq','keihin-workflow'),'神奈川県　県土整備局　城山ダム管理事務所',10005,null,20),
+(10006,pgp_sym_encrypt('P6zB2rZT','keihin-workflow'),'山梨県　県土整備部　深城ダム管理事務所',10006,null,20),
+(10007,pgp_sym_encrypt('cZ5AVQaB','keihin-workflow'),'神奈川県企業庁　相模川水系ダム管理事務所　相模ダム管理部',10007,null,20),
+(10008,pgp_sym_encrypt('Si7UaTYt','keihin-workflow'),'神奈川県企業庁　相模川水系ダム管理事務所（道志ダム）',10008,null,20),
+(10009,pgp_sym_encrypt('x3BwaUhn','keihin-workflow'),'東京電力リニューアブルパワー㈱　駒橋事業所　土木保守グループ（大野ダム、葛野川ダム）',10009,null,20),
+(99999,pgp_sym_encrypt('!Touken2640','keihin-workflow'),'ゲスト',99999,null,20);
